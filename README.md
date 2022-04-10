@@ -1,4 +1,4 @@
-# DHBeerShop
+# DHBeerMarket
 > Tienda especializada en Cervezas Artesanales de Argentina y del Mundo.
 
 Para aquellos que buscan las mejores cervezas artesanales.
