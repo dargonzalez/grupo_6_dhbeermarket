@@ -25,7 +25,8 @@
 * https://sixpack.com.ar/
 	
 ## Equipo
-* Noelia
+* Noelia Soliz
+> Licenciada en Administración, con muchas ganas de afrontar nuevos desafios.
 * Juan Lemos
 * Juan Martin Ninfea
 > Licenciado en Administración, siempre interesado en la tecnología y curioseando programación.
