@@ -19,5 +19,6 @@ Para aquellos que buscan las mejores cervezas artesanales.
 * Noelia
 * Juan Lemos
 * Juan Martin Ninfea
+> Licenciado en Administración, siempre interesado en la tecnología y curioseando programación.
 * Dario Gonzalez
 > Informático y Médico. Entusiasta de la programación y la tecnología
