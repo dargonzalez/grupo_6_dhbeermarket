@@ -1,22 +1,23 @@
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+# DHBeerShop
+> Tienda especializada en Cervezas Artesanales de Argentina y del Mundo.
 
-## General info
-This project is simple Lorem ipsum dolor generator.
-	
-## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
-	
-## Setup
-To run this project, install it locally using npm:
+Para aquellos que buscan las mejores cervezas artesanales.
 
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+
+## Tabla de Contenidos
+* [Referencias](#referencias)
+* [Equipo](#equipo)
+
+## Referencias
+* http://www.puroescabio.com.ar/
+* https://www.estaciondebebidas.com/
+* https://www.fullescabio.com/
+* https://www.craftsociety.com.ar/
+* https://sixpack.com.ar/
+	
+## Equipo
+* Noelia
+* Juan Lemos
+* Juan Martin Ninfea
+* Dario Gonzalez
+> Informático y Médico. Entusiasta de la programación y la tecnología
