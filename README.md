@@ -18,6 +18,7 @@ Para aquellos que buscan las mejores cervezas artesanales.
 ## Equipo
 * Noelia
 * Juan Lemos
+> Baterista e informático, futuro full stack
 * Juan Martin Ninfea
 > Licenciado en Administración, siempre interesado en la tecnología y curioseando programación.
 * Dario Gonzalez
