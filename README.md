@@ -12,7 +12,7 @@
 
 
 ## Logo
-![](./images/logoFinal.png)
+![](./images/logo01.png)
 
 ## Colores
 ![](./images/Color%20Hunt%20Palette%201b1a17f0a500e45826e6d5b8.png)
