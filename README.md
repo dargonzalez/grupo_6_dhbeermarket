@@ -7,6 +7,7 @@
 ## Tabla de Contenidos
 * [Logo](#logo)
 * [Colores](#colores)
+* [Wireframes](#wireframes)
 * [Referencias](#referencias)
 * [Equipo](#equipo)
 
@@ -16,6 +17,13 @@
 
 ## Colores
 ![](./images/Color%20Hunt%20Palette%201b1a17f0a500e45826e6d5b8.png)
+
+## Wireframes
+* [HOME](./wireframes/HOME.png)
+* [INICIAR SESIÓN](./wireframes/INICIAR%20SESI%C3%93N.png)
+* [PRODUCTO](./wireframes/PRODUCTO.png)
+* [REGISTER](./wireframes/REGISTER.png)
+* [CARRITO](./wireframes/CARRITO.png)
 
 ## Referencias
 * http://www.puroescabio.com.ar/
