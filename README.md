@@ -10,6 +10,7 @@
 * [Wireframes](#wireframes)
 * [Referencias](#referencias)
 * [Equipo](#equipo)
+* [Trello](#trello)
 
 
 ## Logo
@@ -42,3 +43,5 @@
 * Dario Gonzalez
 > Informático y Médico. Entusiasta de la programación y la tecnología
 
+## Trello
+https://trello.com/b/0XVaU5y7/grupo-6-s1-e-commerce
