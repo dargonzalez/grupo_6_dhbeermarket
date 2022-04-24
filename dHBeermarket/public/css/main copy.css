@@ -1,5 +1,3 @@
-
-
 body {
     font-family: Roboto;
     font-size: 12px;
@@ -8,19 +6,8 @@ body {
 
 .nav-content {
     display:flex;
+    justify-content: space-around;
     padding-top: 20px; /* probando con padding */
-}
-
-#nav-logo {
-    padding-right: 20px;
-}
-
-#banner {
-    background-image: url(../images/banner.jpg);
-    background-repeat: no-repeat;
-    background-position:0%;
-    height: 300px;
-    
 }
 
 footer {
@@ -40,8 +27,7 @@ footer {
 }
 
 .footer-enlacesSuscrpcion{
-    margin-left: auto;
-    padding-right: 20px;
+    float: right;
 }
 
 .footer-social-media{
@@ -50,10 +36,6 @@ footer {
 
 }
 
-#footer-logo {
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
 
 @media (min-width: 479px){
