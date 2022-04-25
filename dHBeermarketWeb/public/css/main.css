@@ -1,0 +1,152 @@
+
+
+body {
+    font-family: Roboto;
+    font-size: 12px;
+    background-color: rgb(245, 245, 245)
+}
+
+.nav-content {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px; /* probando con padding */
+        
+}
+
+
+#nav-logo {
+    padding-right: 20px;
+    width: 100px;
+}
+
+#nav-nacional {
+    padding-right: 20px;
+    flex-grow: 0.2;
+    color: orange;
+
+}
+
+#nav-importada {
+    padding-right: 40px;
+    flex-grow: 0.8;
+
+}
+
+.nav-link {
+    text-decoration: none;
+    color: orange;
+}
+
+
+#nav-menu {
+    display: flex;
+    margin-left: auto;
+
+}
+
+#nav-carrito {
+    font-size: 20px;
+    padding-right: 10px;
+    padding-left: 20px;
+    flex-grow: 0.2;
+}
+
+.nav-banner {
+    color: orange;    
+}
+
+#banner-img {
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
+
+
+
+footer {
+    background-color: #ebebeb;
+
+}
+
+.footer-content{
+    display: flex;
+    padding-top: 20px; /* probando con padding */
+}
+
+#footer-logo {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.footer-text {
+    padding-top: 10px;
+    color: red;
+}
+.footer-enlacesSuscrpcion{
+    margin-left: auto;
+    padding-right: 20px;
+}
+
+
+.footer-social-media {
+    font-size: 15px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.footer-link, .footer-link:hover {
+    text-decoration: none;
+    color: black;
+}
+
+
+@media (min-width: 479px){
+    body {
+        background-color: red;
+    }
+}
+
+@media (min-width: 768px){
+    body {
+        background-color: black;
+    }
+}
+
+
+/*
+.banner-text1{
+    position: absolute;
+    left: 16px;
+    font-size: 30px;
+    color: orange;
+}
+
+.banner-text2{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 30px;
+    color: orange;
+}
+
+.banner-text2{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 30px;
+    color: orange;
+}
+*/
+
+/*
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+*/
