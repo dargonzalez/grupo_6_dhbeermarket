@@ -53,15 +53,28 @@ body {
 }
 
 .nav-banner {
-    color: orange;    
+    position: relative;
 }
 
 #banner-img {
     width: 100%;
+    padding: 5px;
     height: auto;
     opacity: 0.5;
+
 }
 
+.banner-text {
+    color: red;
+    top: 0;
+    left: 5px;
+    bottom: 0;
+    right: 0;
+    position:absolute;
+    text-align:start;
+    padding-bottom: 5px;
+    
+}
 
 
 footer {
