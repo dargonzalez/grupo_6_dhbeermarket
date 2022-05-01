@@ -35,6 +35,24 @@ header{
     color: #F0A500;
     font-size: 20px;
 
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#nav-nacional:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: -73%;
+    width: 73%;
+    height: 3px;
+    background: #F0A500;
+    transition: left .8s;
+}
+#nav-nacional:hover:after {
+    left: 0;
 }
 
 #nav-importada {
@@ -42,6 +60,25 @@ header{
     flex-grow: 0.8;
     color: #F0A500;
     font-size: 20px;
+
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#nav-importada:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: -50%;
+    width: 50%;
+    height: 3px;
+    background: #F0A500;
+    transition: left .8s;
+}
+#nav-importada:hover:after {
+    left: 0;
 }
 
 .nav-link {
@@ -79,6 +116,10 @@ header{
 
 /* MAIN */
 
+h1.nacionales, h1.importados {
+    text-align: center;
+}
+
 p.articulo-texto1 {
     font-size: 20px;
 
@@ -89,9 +130,10 @@ p.articulo-texto4 {
 
 }
 
-.articulos-nacionales, .articulos-importados {
+.productos-nacionales, .productos-importados {
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 /* FOOTER */
@@ -112,9 +154,26 @@ footer {
 }
 
 .footer-text {
-    padding-top: 30px;
+    padding-top: 15px;
     font-size: 15px;
+    color: #000000;
+
 }
+
+.footer-link {
+    display: flex;
+    position: relative;
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.footer-link:hover {
+    right: 0;
+    color:rgb(245, 245, 245);
+    }   
+
+
 .footer-enlacesSuscrpcion{
     padding-top: 30px;
     margin-left: auto;
@@ -129,10 +188,7 @@ footer {
 
 }
 
-.footer-link, .footer-link:hover {
-    text-decoration: none;
-    color: black;
-}
+
 
 /*
 @media (min-width: 479px){
@@ -148,38 +204,3 @@ footer {
 }
 */
 
-/*
-.banner-text1{
-    position: absolute;
-    left: 16px;
-    font-size: 30px;
-    color: orange;
-}
-
-.banner-text2{
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-size: 30px;
-    color: orange;
-}
-
-.banner-text2{
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-size: 30px;
-    color: orange;
-}
-*/
-
-/*
-a:link, a:visited, a:active {
-    text-decoration: none;
-    color: red;
-}
-
-a:hover {
-    color: blue;
-}
-*/
