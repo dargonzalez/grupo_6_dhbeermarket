@@ -89,6 +89,11 @@ p.articulo-texto4 {
 
 }
 
+.articulos-nacionales, .articulos-importados {
+    display: flex;
+    justify-content: space-around;
+}
+
 /* FOOTER */
 
 footer {
