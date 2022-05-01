@@ -64,7 +64,7 @@ header{
 }
 
 .nav-banner {
-    color: #F0A500;    
+    color: #F0A500; 
 }
 
 /* BANNER */
@@ -73,7 +73,8 @@ header{
     width: 100%;
     padding: 5px;
     height: auto;
-    /* opacity: 0.5; */
+    padding: 0%;
+    opacity: 0.9;
 }
 
 /* MAIN */
