@@ -71,6 +71,7 @@ header{
 
 #banner-img {
     width: 100%;
+    padding: 5px;
     height: auto;
     /* opacity: 0.5; */
 }
