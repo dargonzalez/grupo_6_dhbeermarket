@@ -236,3 +236,44 @@ footer {
 
     background-color: #E45826 ;
 }
+.subtitulos-h1{
+    font-size: 35px;
+    text-align: center;
+}
+
+.subtitulos-h3{
+    font-size: 20px;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.cuadro-login {
+    background-color:#f0a500;
+    margin:auto !important;
+    width: 60vh;
+    padding: 30px;
+}
+
+section form {
+    text-align: center;
+    
+}
+
+.borde-login{
+
+        padding: 10px;
+        margin: auto;
+    }
+
+.boton-ingreso{
+        background-color: #e45826;
+        color: white;
+        padding: 5% 20% ;
+        font-size: 20px;
+        text-align: center;
+        border: solid 2px white;
+
+    }
+.boton-olvidaste{
+    color: #e45826;
+}
