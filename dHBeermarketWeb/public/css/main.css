@@ -272,8 +272,31 @@ section form {
         font-size: 20px;
         text-align: center;
         border: solid 2px white;
+        cursor: pointer;
 
     }
 .boton-olvidaste{
     color: #e45826;
+}
+
+.cuadro-registrar {
+    background-color:#f0a500;
+    margin:auto !important;
+    width: 60vh;
+    padding: 30px;
+}
+.borde-register{
+
+    padding: 10px;
+    margin: auto;
+}
+.boton-registrar{
+    background-color: #e45826;
+    color: white;
+    padding: 5% 20% ;
+    font-size: 20px;
+    text-align: center;
+    border: solid 2px white;
+    cursor: pointer;
+
 }
