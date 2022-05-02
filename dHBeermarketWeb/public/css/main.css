@@ -140,17 +140,20 @@ p.articulo-texto4 {
 
 footer {
     background-color: #F0A500;
+    
 
 }
 
 .footer-content{
     display: flex;
     padding-top: 20px; /* probando con padding */
+    
 }
 
 #footer-logo {
     padding-left: 20px;
     padding-right: 20px;
+   
 }
 
 .footer-text {
