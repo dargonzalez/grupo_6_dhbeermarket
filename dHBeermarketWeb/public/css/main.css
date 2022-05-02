@@ -207,6 +207,10 @@ footer {
 /*////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////*/
 
 .producto {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     display :flex;
     justify-content: center;
 }
@@ -221,9 +225,10 @@ footer {
 }
 
 .descripcionProducto{
-    height: 50%;
+    height: 40%;
     padding-top: 10%;
-    padding-right: 10%;
+    padding-right: 20%;
+    
     color: white;
     text-align: justify;
     font-size: 18px;
@@ -232,6 +237,14 @@ footer {
     width: 90%;
    
 }
+
+.precio {
+
+    color: #F0A500;
+    font-size: 2em;
+
+}
+
 
 .botones{
 padding-top: 5%;
@@ -254,6 +267,7 @@ padding-top: 5%;
     font-family: Roboto;
     font-size: 20px;
     background-color: #E45826 ;
+    color: lightgray;
 }
 .subtitulos-h1{
     font-size: 35px;
