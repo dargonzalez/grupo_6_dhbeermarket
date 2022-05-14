@@ -103,8 +103,14 @@ header{
 
 /* MAIN */
 
+main{
+    background-color: #1B1A17;
+}
+
 h1.nacionales, h1.importados {
     text-align: center;
+    margin-top: 0;
+    padding-top: 25px;
 }
 
 p.articulo-texto1 {
@@ -132,6 +138,24 @@ p.articulo-texto4 {
 
 .articulo {
     padding: 10px;
+}
+
+.articulo-img{
+    width: 250px;
+    border-radius: 8px;
+    
+}
+
+.articulo-img:hover{
+    transform: translateY(-15px);
+    box-shadow:e12px 16px rgba(e, e, e.2);
+}
+
+.productos-nacionales-row3{
+    display: none;
+}
+.productos-importados-row3{
+    display: none;
 }
 
 /* FOOTER */
@@ -197,6 +221,10 @@ footer {
 
 @media (min-width: 479px){
 
+    .articulo-img{
+        width: 150px;
+    }
+
     .articulos-nacionales {
         display: flex;
         text-align: center;
@@ -226,6 +254,11 @@ footer {
 /* 768px */
 
 @media (min-width: 768px){
+
+    .articulo-img{
+        width: 150px;
+    }
+
     .articulos-nacionales {
         /* display: flex; */
         text-align: center;
@@ -343,7 +376,6 @@ footer {
 }
 .imgProducto>img{
     width: 90%;
-   
 }
 
 .precio {
