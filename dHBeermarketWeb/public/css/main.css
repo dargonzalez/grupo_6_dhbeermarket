@@ -55,8 +55,8 @@ header{
 
 #nav-carrito {
     font-size: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     padding-left: 0%;
 }
 
@@ -113,6 +113,13 @@ h1.nacionales, h1.importados {
     padding-top: 25px;
 }
 
+
+
+
+p.articulo-texto1, p.articulo-texto2, p.articulo-texto3, p.articulo-texto4{
+    font-family: Roboto;
+}
+
 p.articulo-texto1 {
     font-size: 20px;
 
@@ -126,7 +133,6 @@ p.articulo-texto4 {
 .articulos-nacionales, .articulos-importados{
     /* display: flex; */
     text-align: center;
-    font-family: Roboto;
     /* justify-content: space-around; */
 }
 
@@ -474,6 +480,15 @@ section form {
 
 }
 
+
+/* productDetail */
+.detail{
+    text-align: center;
+    /* margin-top: 25px;
+    margin-bottom: 25px; */
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
 
 
 
