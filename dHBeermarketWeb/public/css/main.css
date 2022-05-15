@@ -154,7 +154,7 @@ p.articulo-texto4 {
 
 .articulo-img:hover{
     transform: translateY(-15px);
-    box-shadow:e12px 16px rgba(e, e, e.2);
+    box-shadow:e12px 16px rgba(e, e, e);
 }
 
 .productos-nacionales-row3{
